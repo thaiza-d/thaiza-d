@@ -15,13 +15,6 @@
 ◾ HTML e CSS
 <p/>
 
-### 📝 Minhas estátisticas e linguagens praticadas:
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thaiza-d&theme=github_dark&show_icons=true&hide_rank=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiza-d&layout=compact&theme=github_dark" />
-</p>
-
-
 ### 📫 Como me encontrar:
 <p align="left">
   <a href="https://www.linkedin.com/in/thaiza-dantas-b312101b2" alt="Linkedin">
