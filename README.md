@@ -23,6 +23,6 @@
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:thaizadantas1@gmail.com">
-    <img src="https://img.shields.io/badge/Fale%20comigo-A56CC1?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Fale%20comigo-A56CC1?style=for-the-badge&logoColor=FFFFFF"/>
   </a>
 </p>
