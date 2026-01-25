@@ -1,13 +1,14 @@
 ## Olá, meu nome é Thaiza Dantas! 👋
 <p>
 💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🌍 Apaixonada por inovação e aprender, estou dando os meus primeiros passos em desenvolvimento de sistemas. <br>
-🚀 Em busca de me tornar desenvolvedora backend <br>
+🌍 Apaixonada por inovação e aprender. <br>
+🚀 Em busca da minha primeira oportunidade na área como desenvolvedora de software <br>
 🎯 Meta: transformar minha vida através da tecnologia
 <p/>
 
 ### 🛠️ Tecnologias que estou aprendendo:
 <p>
+◾ Java <br>  
 ◾ Python <br>
 ◾ MySQL & SQL <br>
 ◾ Lógica de Programação <br>
