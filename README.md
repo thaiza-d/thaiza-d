@@ -21,4 +21,8 @@
   <a href="https://www.linkedin.com/in/thaiza-dantas-b312101b2" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-A56CC1?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/thaiza-dantas-b312101b2/"/>
   </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:thaizadantas1@gmail.com">
+    <img src="https://img.shields.io/badge/Fale%20comigo-A56CC1?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF"/>
+  </a>
 </p>
