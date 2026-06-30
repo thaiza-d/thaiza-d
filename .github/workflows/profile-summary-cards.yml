@@ -1,0 +1,25 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    # roda automaticamente 1x por dia (meia-noite UTC)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    # permite rodar manualmente clicando em "Run workflow" na aba Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: thaiza-d
+          BRANCH_NAME: "main"
+          UTC_OFFSET: -3
+          AUTO_PUSH: true
