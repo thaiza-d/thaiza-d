@@ -23,4 +23,18 @@ jobs:
           USERNAME: thaiza-d
           BRANCH_NAME: "main"
           UTC_OFFSET: -3
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      - name: Commit and push cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile-summary-card-output/
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração nos gráficos."
+          else
+            git commit -m "chore: update profile summary cards"
+            git push origin main
+          fi
