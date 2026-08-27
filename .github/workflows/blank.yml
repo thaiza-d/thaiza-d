@@ -1,0 +1,36 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git remote set-url origin https://x-access-token:${{ secrets.SUMMARY_GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: thaiza-d
+          BRANCH_NAME: main
+          UTC_OFFSET: -3
+          AUTO_PUSH: "false"
+
+      - name: Commit and push cards
+        run: |
+          git add .
+          git commit -m "Update profile summary cards" || echo "No changes to commit"
+          git push origin main
