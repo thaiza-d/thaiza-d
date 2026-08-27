@@ -26,7 +26,7 @@ jobs:
           USERNAME: thaiza-d
           BRANCH_NAME: "main"
           UTC_OFFSET: -3
-          AUTO_PUSH: false  
+          AUTO_PUSH: "false"  
 
       - name: Commit and push cards
         run: |
