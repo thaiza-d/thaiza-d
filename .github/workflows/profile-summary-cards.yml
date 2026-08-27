@@ -18,6 +18,8 @@ jobs:
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
+          git config --global credential.helper store
+          echo "https://x-access-token:${{ secrets.SUMMARY_GITHUB_TOKEN }}@github.com" > ~/.git-credentials
       
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
