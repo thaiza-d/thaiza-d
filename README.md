@@ -1,10 +1,11 @@
 <h1>Olá, meu nome é Thaiza Dantas! 👋</h1>
 
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas (UNINTER)<br>
-🚀 Em busca da minha primeira oportunidade como desenvolvedora backend<br>
-🎯 Foco em APIs REST, autenticação segura (JWT/OAuth2) e arquitetura limpa<br>
-🌍 Aprendendo inglês e tecnologia, todos os dias
+💻 Estudante de Análise e Desenvolvimento de Sistemas (UNINTER)  
+🐍 Desenvolvedora backend em formação, com foco em Python e APIs REST  
+🔐 Experiência prática com autenticação (JWT/OAuth2), bancos de dados e testes automatizados  
+🌱 Em constante evolução em desenvolvimento de software e inglês
+<br>🚀 Em busca da minha primeira oportunidade em desenvolvimento
 </p>
 
 <br>
@@ -143,10 +144,6 @@
 </td>
 
 <br><br>
-
-🛡️ <sub>Rate Limiting</sub>
-
-</td>
 
 <td align="center" valign="top">
 
