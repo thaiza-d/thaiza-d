@@ -39,19 +39,16 @@
 <br>
 
 ## 📊 Minha atividade no GitHub
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thaiza-d/thaiza-d/main/profile-summary-card-output/aura/0-profile-details.svg" alt="Detalhes do perfil"/>
+  <a href="https://github.com/thaiza-d">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=thaiza-d&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&locale=pt-br" />
+  </a>
+  <a href="https://github.com/thaiza-d">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiza-d&layout=compact&langs_count=8&hide_border=true&locale=pt-br" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thaiza-d/thaiza-d/main/profile-summary-card-output/aura/1-repos-per-language.svg" alt="Linguagens mais usadas" width="40%"/>
-  <img src="https://raw.githubusercontent.com/thaiza-d/thaiza-d/main/profile-summary-card-output/aura/2-most-commit-language.svg" alt="Linguagem com mais commits" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thaiza-d/thaiza-d/main/profile-summary-card-output/aura/3-stats.svg" alt="Estatísticas gerais (estrelas, commits, PRs)" width="40%"/>
-</p>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 <br>
 
