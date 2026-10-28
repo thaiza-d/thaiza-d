@@ -271,23 +271,6 @@
 
 <br>
 
-## 📊 Minha atividade no GitHub
-<p align="center">
-  <a href="https://github.com/thaiza-d">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=thaiza-d&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&locale=pt-br" />
-  </a>
-  <a href="https://github.com/thaiza-d">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiza-d&layout=compact&langs_count=8&hide_border=true&locale=pt-br" />
-  </a>
-</p>
-<!-- BEGIN ACTIVITY-GRAPH -->
-<picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>
-<!-- END ACTIVITY-GRAPH -->
-
-<br>
 
 ## 📫 Como me encontrar
 
